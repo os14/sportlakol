@@ -403,7 +403,7 @@ div.cup img {
   background-image: -ms-repeating-linear-gradient(top left, #3f95ea 0%, #52d3aa 100%);
 }
 #fh5co-home, #fh5co-home .text-wrap {
-  height: 900px;
+  height: 800px;
 }
 #fh5co-home .text-wrap {
   display: table;
@@ -462,9 +462,9 @@ div.cup img {
 #fh5co-intro {
   position: relative;
   bottom: 0;
-  margin-top: -150px;
+  margin-top: -80px;
   z-index: 10;
-  padding-bottom: 7em;
+  //padding-bottom: 7em;
 }
 @media screen and (max-width: 768px) {
   #fh5co-intro {
