@@ -1953,7 +1953,7 @@ pre code {
     width: 970px;
   }
 }
-@media (min-width: 2200px) {
+@media (min-width: 1200px) {
   .container {
     width: 1170px;
   }
