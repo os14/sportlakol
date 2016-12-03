@@ -488,7 +488,7 @@ h1, h2, h3, h4, h5, h6 {
 		@include fh5co-gradient;
 	}
 	&, .text-wrap {
-		height: 900px;
+		height: 800px;
 	}
 	.text-wrap {
 		display: table;
@@ -549,7 +549,7 @@ h1, h2, h3, h4, h5, h6 {
 #fh5co-intro {
 	position: relative;
 	bottom: 0;
-	margin-top: -80px;
+	//margin-top: -80px;
 	z-index: 10;
 	//padding-bottom: 7em;
 	@media screen and (max-width: $screen-sm) {
