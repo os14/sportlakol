@@ -82,8 +82,10 @@ small,
 
 mark,
 .mark {
-  background-color: $state-warning-bg;
+  background-color: transparent;
   padding: .2em;
+  font-weight: bold;
+  color: red;
 }
 
 // Alignment
